@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stariel/01-node-ecosystem/issues"
   },
-  "homepage": "https://github.com/stariel/01-node-ecosystem#readme"
+  "homepage": "https://github.com/stariel/01-node-ecosystem#readme",
+  "dependencies": {
+    "lint": "^1.1.2"
+  }
 }
