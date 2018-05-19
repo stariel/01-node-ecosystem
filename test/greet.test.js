@@ -5,8 +5,8 @@ describe('greet module', () => {
     expect(greet()).toBeNull();
   });
 
-  it('should return "Hello, Brian" when passed Brian', () => {
-    expect(greet('Brian')).toBe('Hello, Brian');
+  it('should return "hello world" when passed world', () => {
+    expect(greet('world')).toBe('hello world');
   }
 
   );
