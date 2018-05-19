@@ -3,7 +3,7 @@ node_js:
   - "9"
 
 before_script:
-- cd lab-ariel
+- cd 01-node-ecosystem
 - npm i
 
 script:
