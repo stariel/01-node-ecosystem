@@ -5,7 +5,7 @@
   "main": "greet.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslintrc.json"
+    "lint": "lint"
   },
   "repository": {
     "type": "git",
