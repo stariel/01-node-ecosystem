@@ -18,13 +18,11 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stariel/01-node-ecosystem/issues"
+  "devDependencies": {
+    "jest": "^22.4.3"
   },
-  "homepage": "https://github.com/stariel/01-node-ecosystem#readme",
   "dependencies": {
-    "jest": "^22.4.3",
-    "lint": "^1.1.2"
+    "eslint": "^4.19.1"
   }
 }
 }
